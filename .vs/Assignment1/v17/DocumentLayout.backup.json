@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akbep\\OneDrive\\Desktop\\Projects\\OpenGl\\Assignment1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F67ECC7B-5647-40EE-93D7-D6243FF888F1}|Assignment1.vcxproj|C:\\Users\\akbep\\OneDrive\\Desktop\\Projects\\OpenGl\\Assignment1\\src\\Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F67ECC7B-5647-40EE-93D7-D6243FF888F1}|Assignment1.vcxproj|solutionrelative:src\\Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67ECC7B-5647-40EE-93D7-D6243FF888F1}|Assignment1.vcxproj|C:\\Users\\akbep\\OneDrive\\Desktop\\Projects\\OpenGl\\Assignment1\\Makefile||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{F67ECC7B-5647-40EE-93D7-D6243FF888F1}|Assignment1.vcxproj|solutionrelative:Makefile||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Project.cpp",
+              "DocumentMoniker": "C:\\Users\\akbep\\OneDrive\\Desktop\\Projects\\OpenGl\\Assignment1\\src\\Project.cpp",
+              "RelativeDocumentMoniker": "src\\Project.cpp",
+              "ToolTip": "C:\\Users\\akbep\\OneDrive\\Desktop\\Projects\\OpenGl\\Assignment1\\src\\Project.cpp",
+              "RelativeToolTip": "src\\Project.cpp",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAiwMsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-07T09:25:15.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Makefile",
+              "DocumentMoniker": "C:\\Users\\akbep\\OneDrive\\Desktop\\Projects\\OpenGl\\Assignment1\\Makefile",
+              "RelativeDocumentMoniker": "Makefile",
+              "ToolTip": "C:\\Users\\akbep\\OneDrive\\Desktop\\Projects\\OpenGl\\Assignment1\\Makefile",
+              "RelativeToolTip": "Makefile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-25T05:22:09.994Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
