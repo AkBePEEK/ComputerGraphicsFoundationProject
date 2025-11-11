@@ -29,5 +29,6 @@
     <None Include="glfw3.dll">
       <Filter>Файлы заголовков</Filter>
     </None>
+    <None Include="Readme.md" />
   </ItemGroup>
 </Project>

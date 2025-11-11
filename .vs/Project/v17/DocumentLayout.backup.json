@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\OpenGl\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F67ECC7B-5647-40EE-93D7-D6243FF888F1}|Project.vcxproj|C:\\Projects\\OpenGl\\Project\\src\\Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F67ECC7B-5647-40EE-93D7-D6243FF888F1}|Project.vcxproj|solutionrelative:src\\Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67ECC7B-5647-40EE-93D7-D6243FF888F1}|Project.vcxproj|C:\\Projects\\OpenGl\\Project\\Readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{F67ECC7B-5647-40EE-93D7-D6243FF888F1}|Project.vcxproj|solutionrelative:Readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67ECC7B-5647-40EE-93D7-D6243FF888F1}|Project.vcxproj|C:\\PROJECTS\\OPENGL\\PROJECT\\LIBRARIES\\INCLUDE\\GLFW\\GLFW3.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F67ECC7B-5647-40EE-93D7-D6243FF888F1}|Project.vcxproj|solutionrelative:LIBRARIES\\INCLUDE\\GLFW\\GLFW3.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Readme.md",
+              "DocumentMoniker": "C:\\Projects\\OpenGl\\Project\\Readme.md",
+              "RelativeDocumentMoniker": "Readme.md",
+              "ToolTip": "C:\\Projects\\OpenGl\\Project\\Readme.md",
+              "RelativeToolTip": "Readme.md",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAFoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-11-11T19:36:53.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "glfw3.h",
+              "DocumentMoniker": "C:\\Projects\\OpenGl\\Project\\Libraries\\include\\GLFW\\glfw3.h",
+              "RelativeDocumentMoniker": "Libraries\\include\\GLFW\\glfw3.h",
+              "ToolTip": "C:\\Projects\\OpenGl\\Project\\Libraries\\include\\GLFW\\glfw3.h",
+              "RelativeToolTip": "Libraries\\include\\GLFW\\glfw3.h",
+              "ViewState": "AgIAADsFAAAAAAAAAAArwEUFAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-11T19:12:34.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Project.cpp",
+              "DocumentMoniker": "C:\\Projects\\OpenGl\\Project\\src\\Project.cpp",
+              "RelativeDocumentMoniker": "src\\Project.cpp",
+              "ToolTip": "C:\\Projects\\OpenGl\\Project\\src\\Project.cpp",
+              "RelativeToolTip": "src\\Project.cpp",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwIQBAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-09T21:23:23.601Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

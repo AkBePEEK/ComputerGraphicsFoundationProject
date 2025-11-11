@@ -1346,11 +1346,14 @@ extern "C" {
 #define GLFW_DONT_CARE              -1
 
 
+#include <GLFW/glfw3.h>
+#include <iostream>
+
 /*************************************************************************
  * GLFW API types
  *************************************************************************/
 
-/*! @brief Client API function pointer type.
+/*! @brief Client API function pointer type.g 
  *
  *  Generic function pointer used for returning client API function pointers
  *  without forcing a cast from a regular pointer.
@@ -1803,7 +1806,7 @@ typedef void (* GLFWwindowcontentscalefun)(GLFWwindow* window, float xscale, flo
  *
  *  @ingroup input
  */
-typedef void (* GLFWmousebuttonfun)(GLFWwindow* window, int button, int action, int mods);
+typedef void (* GLFWmousebuttonfun)(GLFWwindow* window, int button, int action, double xpos, double ypos);
 
 /*! @brief The function pointer type for cursor position callbacks.
  *
